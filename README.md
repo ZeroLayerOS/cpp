@@ -41,7 +41,7 @@ This repository is my personal archive of **Codeforces problems** I've solved, o
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ZeroLayerOS/cpp.git
 ```
 2. Navigate into any solution file and compile:
 ```bash
